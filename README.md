@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Project Screenshot](./screenshot.jpg)
+![Project Screenshot](./src/Huddle-page-screenshot.png)
 
 ## My process
 
